@@ -7,7 +7,7 @@ This project analyzes sales data from a retail store to provide insights into sa
 - Present findings through an interactive dashboard for easy access and continuous monitoring.
 ### Project Structure
 The project consists of three main components: Excel Data Exploration, SQL Query Analysis, and Power BI Dashboard.
-Folders and Files
+###### Folders and Files
 - /data: Contains raw sales data used for analysis.
 - /scripts: SQL queries and scripts.
 - /Excel Reports: Contains Excel summary tables and initial analysis.
