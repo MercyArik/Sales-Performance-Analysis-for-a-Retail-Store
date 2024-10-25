@@ -1,2 +1,7 @@
-### TheIncubatorHub-Capstone_Project
-This project summarizes the Data Analysis course learning experience with the Incubator hub
+## Sales Performance Analysis for a Retail Store
+### Project Overview
+This project analyzes sales data from a retail store to provide insights into sales performance across various dimensions, such as products, regions, and time periods. The final deliverable is an interactive Power BI dashboard that visualizes key findings.
+### Objectives
+Identify top-selling products, high-performing regions, and monthly sales trends.
+Produce insights to help the retail store make data-driven decisions for inventory and marketing.
+Present findings through an interactive dashboard for easy access and continuous monitoring.
