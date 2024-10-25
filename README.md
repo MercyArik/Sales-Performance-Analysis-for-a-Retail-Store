@@ -5,3 +5,10 @@ This project analyzes sales data from a retail store to provide insights into sa
 - Identify top-selling products, high-performing regions, and monthly sales trends.
 - Produce insights to help the retail store make data-driven decisions for inventory and marketing.
 - Present findings through an interactive dashboard for easy access and continuous monitoring.
+### Project Structure
+The project consists of three main components: Excel Data Exploration, SQL Query Analysis, and Power BI Dashboard.
+Folders and Files
+- /data: Contains raw sales data used for analysis.
+- /scripts: SQL queries and scripts.
+- /Excel Reports: Contains Excel summary tables and initial analysis.
+- /PowerBI: Contains Power BI files for the dashboard.
