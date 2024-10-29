@@ -9,6 +9,6 @@ This project analyzes sales data from a retail store to provide insights into sa
 The project consists of three main components: Excel Data Exploration, SQL Query Analysis, and Power BI Dashboard.
 ###### Folders and Files
 - https://github.com/MercyArik/LITA_Capstone_Project/blob/main/LITA_Project_Dataset.xlsx/data: Contains raw sales data used for this analysis.
-- /scripts: SQL queries and scripts.
+- https://github.com/MercyArik/LITA_Capstone_Project/blob/main/projectquery.sql/scripts: SQL queries and scripts.
 - /Excel Reports: Contains Excel summary tables and initial analysis.
 - /PowerBI: Contains Power BI files for the dashboard.
