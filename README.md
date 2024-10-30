@@ -25,6 +25,17 @@ The preprocessing stage took the following shape:
 2. Removing duplicates and blanks (null vales)
 3. Data cleaning and formatting
 4. Transformation of the variables and datatypes
-### Exploraroty Data Analysis
+### Exploraroty Data Analysis 
+- Total sales by product, region, and month.
+- Average sales per product 
+- Total revenue by region.
+- Retrieve the total sales for each product category.
+- Find the number of sales transactions in each region.
+- Find the highest-selling product by total sales value.
+- Fcalculate total revenue per product.
+- Calculate monthly sales totals for the current year.
+- Find the top 5 customers by total purchase amount.
+- Calculate the percentage of total sales contributed by each region.
+- Identify products with no sales in the last quarter
 
   
