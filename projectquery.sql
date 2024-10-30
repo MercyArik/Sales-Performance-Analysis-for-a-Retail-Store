@@ -1,5 +1,5 @@
 select * from SALESDATA$
-DESKTOP-194OHGQ\SQLEXPRESS
+---DESKTOP-194OHGQ\SQLEXPRESS---
 ---to remove duplicates from salesdata set---
 
 WITH DuplicateRows AS (
