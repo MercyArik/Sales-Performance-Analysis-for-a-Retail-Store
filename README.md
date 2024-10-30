@@ -14,6 +14,8 @@ The project consists of three main components: Excel Data Exploration, SQL Query
 - /PowerBI: Contains Power BI files for the dashboard.
 ### Tools Used
 The following applications was used for data cleaning, analysis, manipulation and visualizations:
-- Microsoft Excel: Data cleaning
-- SQL Server DB: Data extraction, aggregation and joining
-- PowerBI: Data visualization
+- Microsoft Excel: Data cleaning, exploration and initial metrics calculation.
+- SQL Server DB: for running SQL queries
+- PowerBI: for interactive data visualization dashboard
+- Github to document my portfolio
+  
