@@ -140,6 +140,24 @@ where Orderdate>=dateadd(day, -90, getdate())
 #### PowerBI Visuals
 ![salesdata](https://github.com/user-attachments/assets/1d2874ea-5171-4a99-8438-dbb2ab510897)
 ### Key Findings & Insights
+##### Summary of Results: 
+- The number of sales transactions is evenly distributed between the four Regions (equal number of sales transactions per Region).
+- The top five customers from previous transactions revealed that the customer with ID 1001 had the highest purchase having cut across all products.
+- The highest selling product from the list is Shoes followed by Shirts, Socks is the least on the list.
+- All products has no sales in the last quarter.
+- The total sales by region reveal the South having the highest number of revenue followed by the East and next to this is the North with West having the lowest.
+- The average sales on each product is #211.75
+- Total monthly sales reveals February as the peak of sales, having a total of #1,100 and next to this is january. Over 50% more sales than the closest month.
+- 
+##### Implications: 
+The trend revealed by this findings is that Shoes and Shirts should always take the utmost priority during the peak periods which falls between January and February being the time when major sales are made. For the other months with low sales, discount and promotions would enhance and motivate customers to patronise the store.
+### Recommendations
+Inventory level and restock (Procurement) should focus on Shoes and Shirts by doubling the stocks to avoid turning down request from customers in January and February respectively. 
+### Project Summary
+The summary of this research and analysis shows that the store should focus it strenght in the sales of shoes, shirts, hat and glove in descending order. Jackets and socks should receive less attention.
+### References
+Data Source(s): Data authored by Muhsin Hameed (The incubator Hub)
+
 
 
 
