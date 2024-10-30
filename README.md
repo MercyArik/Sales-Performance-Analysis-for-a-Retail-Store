@@ -133,6 +133,17 @@ where Orderdate>=dateadd(day, -90, getdate())
  group by product_type
  order by TotalRevenue desc;
 ```
+### Data Visualization
+![Salesdata3](https://github.com/user-attachments/assets/c3d5b47e-e2cf-49cb-8d11-92f9a3c80c20)
+![Salesdata4](https://github.com/user-attachments/assets/68229dce-702f-475d-8d3f-c645c69b845a)
+![salesdata5](https://github.com/user-attachments/assets/1e13e631-4c23-46dd-87ba-64fb5199d7bc)
+![salesdata](https://github.com/user-attachments/assets/1d2874ea-5171-4a99-8438-dbb2ab510897)
+### Key Findings & Insights
+
+
+
+
+
 
 
 
