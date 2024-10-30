@@ -47,6 +47,9 @@ Pivot Tables, Excel formula and SQL queries.
 =SUMIF(H:H,D:D,"North")
 =AVERAGEIF(C:C,"shirt",H:H)
 ```
+Pivot Tables
+![Salesdata2](https://github.com/user-attachments/assets/805c9e84-dc78-43de-b90a-123774b249c9)
+
 
 
 
