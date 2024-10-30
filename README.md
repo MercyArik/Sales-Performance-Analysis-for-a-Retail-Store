@@ -26,10 +26,11 @@ The preprocessing stage took the following shape:
 3. Data cleaning and formatting
 4. Transformation of the variables and datatypes
 ### Exploraroty Data Analysis 
+The EDA will be use to explore the data while providing answer to the following questions about revenue trend such as;
 - Total sales by product, region, and month.
 - Average sales per product 
 - Total revenue by region.
-- Retrieve the total sales for each product category.
+- Total sales for each product category.
 - Find the number of sales transactions in each region.
 - Find the highest-selling product by total sales value.
 - Fcalculate total revenue per product.
@@ -37,5 +38,16 @@ The preprocessing stage took the following shape:
 - Find the top 5 customers by total purchase amount.
 - Calculate the percentage of total sales contributed by each region.
 - Identify products with no sales in the last quarter
+### Data analysis
+Descriptive Statistics: Initial insights, like average sales, top-selling products, and monthly trends using
+Pivot Tables, Excel formula and SQL queries.
+```Excel
+=AVERAGE(I:I)
+=SUM(F2*G2)
+=SUMIF(H:H,D:D,"North")
+=AVERAGEIF(C:C,"shirt",H:H)
+```
+
+
 
   
