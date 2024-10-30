@@ -18,4 +18,13 @@ The following applications was used for data cleaning, analysis, manipulation an
 - SQL Server DB: for running SQL queries
 - PowerBI: for interactive data visualization dashboard
 - Github to document my portfolio
+
+### Data Cleaning & Preprocessing
+The preprocessing stage took the following shape:
+1. Data loading and inspection
+2. Removing duplicates and blanks (null vales)
+3. Data cleaning and formatting
+4. Transformation of the variables and datatypes
+### Exploraroty Data Analysis
+
   
