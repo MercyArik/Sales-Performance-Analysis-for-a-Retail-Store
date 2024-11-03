@@ -148,7 +148,6 @@ where Orderdate>=dateadd(day, -90, getdate())
 - The total sales by region reveal the South having the highest number of revenue followed by the East and next to this is the North with West having the lowest.
 - The average sales on each product is #211.75
 - Total monthly sales reveals February as the peak of sales, having a total of #1,100 and next to this is january. Over 50% more sales than the closest month.
-- 
 ##### Implications: 
 The trend revealed by this findings is that Shoes and Shirts should always take the utmost priority during the peak periods which falls between January and February being the time when major sales are made. For the other months with low sales, discount and promotions would enhance and motivate customers to patronise the store.
 ### Recommendations
@@ -156,7 +155,7 @@ Inventory level and restock (Procurement) should focus on Shoes and Shirts by do
 ### Project Summary
 The summary of this research and analysis shows that the store should focus it strenght in the sales of shoes, shirts, hat and glove in descending order. Jackets and socks should receive less attention.
 ### References
-Data Source(s): Data authored by Muhsin Hameed (The incubator Hub)
+Data Source(s): Data authored by The incubator Hub
 
 
 
