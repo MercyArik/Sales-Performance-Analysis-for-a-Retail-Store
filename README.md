@@ -15,7 +15,7 @@ The project consists of three main components: Excel Data Exploration, SQL Query
 ### Tools Used
 The following applications was used for data cleaning, analysis, manipulation and visualizations:
 - Microsoft Excel: Data cleaning, exploration and initial metrics calculation.
-- SQL Server DB: for running SQL queries
+- SQL Server DB: Structured Query Language is used to query the data
 - PowerBI: for interactive data visualization dashboard
 - Github to document my portfolio
 
@@ -25,7 +25,7 @@ The preprocessing stage took the following shape:
 2. Removing duplicates and blanks (null vales)
 3. Data cleaning and formatting
 4. Transformation of the variables and datatypes
-### Exploratry Data Analysis 
+### Exploratory Data Analysis 
 The EDA will be use to explore the data while providing answer to the following questions about revenue trend such as;
 - Total sales by product, region, and month.
 - Average sales per product 
