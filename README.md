@@ -25,7 +25,7 @@ The preprocessing stage took the following shape:
 2. Removing duplicates and blanks (null vales)
 3. Data cleaning and formatting
 4. Transformation of the variables and datatypes
-### Exploraroty Data Analysis 
+### Exploratry Data Analysis 
 The EDA will be use to explore the data while providing answer to the following questions about revenue trend such as;
 - Total sales by product, region, and month.
 - Average sales per product 
