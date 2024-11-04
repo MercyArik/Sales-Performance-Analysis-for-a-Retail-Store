@@ -137,7 +137,7 @@ where Orderdate>=dateadd(day, -90, getdate())
 ![Salesdata3](https://github.com/user-attachments/assets/c3d5b47e-e2cf-49cb-8d11-92f9a3c80c20)
 ![Salesdata4](https://github.com/user-attachments/assets/68229dce-702f-475d-8d3f-c645c69b845a)
 ![salesdata5](https://github.com/user-attachments/assets/1e13e631-4c23-46dd-87ba-64fb5199d7bc)
-#### PowerBI Visuals
+#### PowerBI Dashboard
 ![salesdata](https://github.com/user-attachments/assets/1d2874ea-5171-4a99-8438-dbb2ab510897)
 ### Key Findings & Insights
 ##### Summary of Results: 
@@ -153,9 +153,9 @@ The trend revealed by this findings is that Shoes and Shirts should always take 
 ### Recommendations
 Inventory level and restock (Procurement) should focus on Shoes and Shirts by doubling the stocks to avoid turning down request from customers in January and February respectively. 
 ### Project Summary
-The summary of this research and analysis shows that the store should focus it strenght in the sales of shoes, shirts, hat and glove in descending order. Jackets and socks should receive less attention.
+The summary of this research and analysis shows that the store should focus it strength in the sales of shoes, shirts, hat and glove in descending order. Jackets and socks should receive less attention.
 ### References
-Data Source(s): Data authored by The incubator Hub
+Data Source(s): Data authored by The Incubator Hub
 
 
 
