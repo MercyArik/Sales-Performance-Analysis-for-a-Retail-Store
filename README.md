@@ -10,7 +10,6 @@ The project consists of three main components: Excel Data Exploration, SQL Query
 ###### Folders and Files
 - https://github.com/MercyArik/LITA_Capstone_Project/blob/main/Raw_Project_Dataset.xlsx/data: Contains raw sales data used for this analysis.
 - https://github.com/MercyArik/LITA_Capstone_Project/blob/main/projectquery.sql/scripts: SQL queries and scripts.
-- /Excel Reports: Contains Excel summary tables and initial analysis.
 - https://github.com/MercyArik/LITA_Capstone_Project/blob/main/Capstone_Project.pbix/PowerBI: Contains Power BI files for the dashboard.
 ### Tools Used
 The following applications was used for data cleaning, analysis, manipulation and visualizations:
