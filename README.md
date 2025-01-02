@@ -137,8 +137,6 @@ where Orderdate>=dateadd(day, -90, getdate())
 ![Salesdata4](https://github.com/user-attachments/assets/68229dce-702f-475d-8d3f-c645c69b845a)
 ![salesdata5](https://github.com/user-attachments/assets/1e13e631-4c23-46dd-87ba-64fb5199d7bc)
 #### PowerBI Dashboard
-![Sales](https://github.com/user-attachments/assets/acaa589a-be88-4bfb-8634-48320072eb48)
-
 ![salesdata](https://github.com/user-attachments/assets/1d2874ea-5171-4a99-8438-dbb2ab510897)
 ### Key Findings & Insights
 ##### Summary of Results: 
