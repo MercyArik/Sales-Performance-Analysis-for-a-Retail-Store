@@ -137,9 +137,7 @@ where Orderdate>=dateadd(day, -90, getdate())
 ![Salesdata4](https://github.com/user-attachments/assets/68229dce-702f-475d-8d3f-c645c69b845a)
 ![salesdata5](https://github.com/user-attachments/assets/1e13e631-4c23-46dd-87ba-64fb5199d7bc)
 #### PowerBI Dashboard
-![Sales](https://github.com/user-attachments/assets/c3df68a1-6722-400d-b7d9-3d01d1db8539)
-
-![salesdata](https://github.com/user-attachments/assets/1d2874ea-5171-4a99-8438-dbb2ab510897)
+![Salesd](https://github.com/user-attachments/assets/80234722-6693-45f5-8002-c81e31554920)
 ### Key Findings & Insights
 ##### Summary of Results: 
 - The number of sales transactions is evenly distributed between the four Regions (equal number of sales transactions per Region).
